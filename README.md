@@ -110,10 +110,10 @@ R² = 1 - (SS_res / SS_tot)
 ![Time Series](output.png)
 
 ### 🔹 Year-wise Electricity Consumption
-![Yearly](images/yearly.png)
+![Yearly](Screenshot 2025-10-29 093739.png)
 
 ### 🔹 Actual vs Predicted Values
-![Prediction](model-result.png)
+![Prediction](model-result.jpg)
 
 ### 🔹 Energy Consumption vs Month
 ![Month](plot.png)
