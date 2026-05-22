@@ -108,7 +108,7 @@ R² = 1 - (SS_res / SS_tot)
 ## 📊 Visualization Results
 
 ### 🔹 Electricity Consumption Over Time
-![Time Series]img/(over-year.png)
+![Time Series](img/over-year.png)
 
 ### 🔹 Year-wise Electricity Consumption
 ![Yearly](img/yearly.png)
