@@ -64,7 +64,7 @@ The proposed system:
 7. Evaluation  
 8. Visualization  
 
-![System Architecture](architecture.png)
+![System Architecture](img/architecture.png)
 ---
 
 ## 🤖 Models Used
@@ -108,22 +108,22 @@ R² = 1 - (SS_res / SS_tot)
 ## 📊 Visualization Results
 
 ### 🔹 Electricity Consumption Over Time
-![Time Series](over-year.png)
+![Time Series]img/(over-year.png)
 
 ### 🔹 Year-wise Electricity Consumption
-![Yearly](yearly.png)
+![Yearly](img/yearly.png)
 
 ### 🔹 Actual vs Predicted Values
-![Prediction](model-result.jpg)
+![Prediction](img/model-result.jpg)
 
 ### 🔹 Energy Consumption Distribution (Analysis)
-![Distribution](output.png)
+![Distribution](img/output.png)
 
 ### 🔹 Energy Consumption vs Month
-![Month](plot.png)
+![Month](img/plot.png)
 
 ### 🔹 Energy Consumption vs Hour
-![Hour](plot2.png)
+![Hour](img/plot2.png)
 
 ---
 
