@@ -64,6 +64,7 @@ The proposed system:
 7. Evaluation  
 8. Visualization  
 
+![System Architecture](architecture.png)
 ---
 
 ## 🤖 Models Used
